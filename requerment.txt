@@ -3,4 +3,4 @@ For a library it is very important to have the books so each book has its own (N
 so each book has an author and the name of author is importent
 library has branches so for a branch its Name,id and its address is very importent
 library to save the book it's important to knew the publisher name,phone number,and it's address.
-
+and many other things are like book copies number of copies, book card number of card
